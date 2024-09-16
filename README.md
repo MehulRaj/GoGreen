@@ -67,3 +67,30 @@ GoGreen/
 ├── assets/              # Static files such as images
 ├── pubspec.yaml         # Project dependencies and metadata
 └── README.md            # Project description and instructions
+
+<img width="300" alt="Screenshot 2024-09-16 at 12 47 57 PM" src="https://github.com/user-attachments/assets/2de12f8a-f476-43b6-b8de-9f434ebef507">
+<img width="299" alt="Screenshot 2024-09-16 at 12 48 20 PM" src="https://github.com/user-attachments/assets/6ea05afc-db61-4494-ae44-93c48f009559">
+![Screenshot_1726471109](https://github.com/user-attachments/assets/6618eb74-8424-4476-87c3-ceaaf5976516)
+![Screenshot_1726471120](https://github.com/user-attachments/assets/cd04fd94-9089-42c2-bbd2-16c0b17b500b)
+![Screenshot_1726471126](https://github.com/user-attachments/assets/b3af715b-5b4e-4200-9b38-ea8c5ec2a714)
+![Screenshot_1726471135](https://github.com/user-attachments/assets/5a3a170d-7ff5-40f1-9076-d42520435df4)
+![Screenshot_1726471154](https://github.com/user-attachments/assets/a97510e8-de88-4364-987c-eb1cc5b5ff31)
+![Screenshot_1726471157](https://github.com/user-attachments/assets/271e69ba-9aec-45f6-80ba-14f779568c60)
+![Screenshot_1726471161](https://github.com/user-attachments/assets/34b72225-9ca1-4f54-bea3-4894e388d0ff)
+![Screenshot_1726471193](https://github.com/user-attachments/assets/077bcce0-5382-4b6b-9079-129003c12f61)
+![Screenshot_1726471208](https://github.com/user-attachments/assets/bd54c92d-3798-49f5-ab1d-9d917416530e)
+![Screenshot_1726471260](https://github.com/user-attachments/assets/75b94ba1-c61f-4dcc-95f4-b720e433282a)
+<img width="298" alt="Screenshot 2024-09-16 at 12 48 08 PM" src="https://github.com/user-attachments/assets/987679ed-5185-43c6-807e-fc2412761d64">
+
+
+
+
+
+
+
+
+<img width="298" alt="Screenshot 2024-09-16 at 12 48 08 PM" src="https://github.com/user-attachments/assets/e5eddfd1-06cc-43c3-bf64-39751d56bfab">
+<img width="300" alt="Screenshot 2024-09-16 at 12 47 57 PM" src="https://github.com/user-attachments/assets/2add51bd-0d65-4ec1-9807-a5a716df68a5">
+
+
+
