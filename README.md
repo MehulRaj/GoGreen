@@ -47,6 +47,32 @@ Please fill out the [Access Request Form](https://forms.gle/zgNunRYiA1X1zT9N8) t
   - [`flutter_dotenv`](https://pub.dev/packages/flutter_dotenv)
 - **Local Storage**:
   - [`shared_preferences`](https://pub.dev/packages/shared_preferences)
+ 
+
+### Screenshots :
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5932f2e0-15df-4fad-8a40-b6b1d743a9fc" width="300" />
+  <img src="https://github.com/user-attachments/assets/810b9aba-e39a-4b1e-9090-59712a6fb786" width="300" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bae668e-8953-4659-b2ce-dce4ceee31b3" width="300" />
+  <img src="https://github.com/user-attachments/assets/b95acbd0-e4f9-40a9-a294-63cdd1dc9e79" width="300" />
+  <img src="https://github.com/user-attachments/assets/0a1cc6e3-b10e-4c45-89a0-17dd2025b834" width="300" />
+  <img src="https://github.com/user-attachments/assets/199479e3-4b13-408f-b0ce-4e75cea01881" width="300" />
+  <img src="https://github.com/user-attachments/assets/878db298-02d8-49e2-8fa2-25c5f113bf89" width="300" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b6c8302-88ba-4cea-8674-b4dbd0e8593f" width="300" />
+  <img src="https://github.com/user-attachments/assets/c7c5ddf4-ee2a-41e2-8a4b-33b53dfacb0f" width="300" />
+  <img src="https://github.com/user-attachments/assets/f0458dda-6c3e-4653-9bee-39bc327422be" width="300" />
+</p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/c8e177b1-45a4-4370-b594-5dd5d1963202" width="300" />
+  <img src="https://github.com/user-attachments/assets/6707d50c-3612-497a-bae3-c125e14a807d" width="300" />
+</p>
+
+
 
 ### Project Structure:
 
@@ -67,30 +93,3 @@ GoGreen/
 ├── assets/              # Static files such as images
 ├── pubspec.yaml         # Project dependencies and metadata
 └── README.md            # Project description and instructions
-
-<img width="300" alt="Screenshot 2024-09-16 at 12 47 57 PM" src="https://github.com/user-attachments/assets/2de12f8a-f476-43b6-b8de-9f434ebef507">
-<img width="299" alt="Screenshot 2024-09-16 at 12 48 20 PM" src="https://github.com/user-attachments/assets/6ea05afc-db61-4494-ae44-93c48f009559">
-![Screenshot_1726471109](https://github.com/user-attachments/assets/6618eb74-8424-4476-87c3-ceaaf5976516)
-![Screenshot_1726471120](https://github.com/user-attachments/assets/cd04fd94-9089-42c2-bbd2-16c0b17b500b)
-![Screenshot_1726471126](https://github.com/user-attachments/assets/b3af715b-5b4e-4200-9b38-ea8c5ec2a714)
-![Screenshot_1726471135](https://github.com/user-attachments/assets/5a3a170d-7ff5-40f1-9076-d42520435df4)
-![Screenshot_1726471154](https://github.com/user-attachments/assets/a97510e8-de88-4364-987c-eb1cc5b5ff31)
-![Screenshot_1726471157](https://github.com/user-attachments/assets/271e69ba-9aec-45f6-80ba-14f779568c60)
-![Screenshot_1726471161](https://github.com/user-attachments/assets/34b72225-9ca1-4f54-bea3-4894e388d0ff)
-![Screenshot_1726471193](https://github.com/user-attachments/assets/077bcce0-5382-4b6b-9079-129003c12f61)
-![Screenshot_1726471208](https://github.com/user-attachments/assets/bd54c92d-3798-49f5-ab1d-9d917416530e)
-![Screenshot_1726471260](https://github.com/user-attachments/assets/75b94ba1-c61f-4dcc-95f4-b720e433282a)
-<img width="298" alt="Screenshot 2024-09-16 at 12 48 08 PM" src="https://github.com/user-attachments/assets/987679ed-5185-43c6-807e-fc2412761d64">
-
-
-
-
-
-
-
-
-<img width="298" alt="Screenshot 2024-09-16 at 12 48 08 PM" src="https://github.com/user-attachments/assets/e5eddfd1-06cc-43c3-bf64-39751d56bfab">
-<img width="300" alt="Screenshot 2024-09-16 at 12 47 57 PM" src="https://github.com/user-attachments/assets/2add51bd-0d65-4ec1-9807-a5a716df68a5">
-
-
-
